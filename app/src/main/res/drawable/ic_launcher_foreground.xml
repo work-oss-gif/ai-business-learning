@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- bulb -->
+    <path android:fillColor="#FFB446" android:pathData="M54,32m-18,0a18,18 0 1,0 36,0a18,18 0 1,0 -36,0" />
+    <!-- neck -->
+    <path android:fillColor="#FFB446" android:pathData="M45,44h18l-3,16h-12z" />
+    <!-- base -->
+    <path android:fillColor="#C9C9D6" android:pathData="M46,63h16v4h-16z M48,69h12v4h-12z" />
+    <!-- shine -->
+    <path android:fillColor="#FFE2AE" android:pathData="M44,28m-4,0a4,4 0 1,0 8,0a4,4 0 1,0 -8,0" />
+</vector>
